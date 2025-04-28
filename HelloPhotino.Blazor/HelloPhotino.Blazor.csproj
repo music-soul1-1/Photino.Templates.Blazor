@@ -19,7 +19,6 @@
 	<ItemGroup>  
 		<None Update="favicon.ico">  
 			<CopyToOutputDirectory>Always</CopyToOutputDirectory>  
-		</None>  
-		<None Remove="Readme.md" />  
+		</None>
 	</ItemGroup>  
 </Project>
